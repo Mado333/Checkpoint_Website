@@ -1,0 +1,51 @@
+h1{
+ 
+  color:lawngreen
+  
+   }
+
+
+  .first-table{
+   
+    border: 5px outset rgb(0, 0, 0);
+    height: 100PX;
+    width: 500px;
+    border-radius: 10px;
+    text-underline-position: auto;
+   
+} 
+.first-table:hover{
+  background-color: rgba(126, 252, 0, 0.233);
+}
+  .bottom{
+    border: 5px outset violet;
+    border-radius: 20px;
+    margin-right: 20px;
+    margin-left: 20px;
+    
+  }
+.video-border{
+  width: 400px;
+  height: 400px;
+  border-radius: 30px;
+}
+body main section img{
+width: 60px;
+height: 60px;
+border-radius: 60px;
+}
+.video-about{
+  width: 700px;
+  height: 600px;
+  border-radius: 80px;
+}
+.myDiv {
+  height: 100px;
+  width: 100%; 
+  text-align: center;
+}
+
+body main table td{
+  width: 200px;
+  padding: 0px;
+}
